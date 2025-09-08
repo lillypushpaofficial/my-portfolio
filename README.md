@@ -31,11 +31,11 @@ fancy-portfolio
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/fancy-portfolio.git
+   git clone https://github.com/lillypushpaofficial/my-portfolio.git
    ```
 2. Navigate to the project directory:
    ```
-   cd fancy-portfolio
+   cd my-portfolio
    ```
 3. Open `src/index.html` in your web browser to view the portfolio.
 
